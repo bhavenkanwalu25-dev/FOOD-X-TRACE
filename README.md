@@ -42,7 +42,7 @@ $ git clone https://github.com/sid113/Farm-to-Fork
 ```
 
 ## Show Stopper 
-<img src="https://github.com/sid113/Farm-to-Fork/blob/master/demo/show%20stopper.png" width="500" height="400" />
+<img src="https://github.com/bhavenkanwalu25-dev/FOOD-X-TRACE.git.png" width="500" height="400" />
 
 
 
@@ -50,7 +50,7 @@ $ git clone https://github.com/sid113/Farm-to-Fork
 
 Contributors names and contact info
 
-* Siddhesh Pawar:&nbsp;siddeshpawar03@gmail.com <br>
+* Bhaven Kanwalu bhavenkanwalu25@gmail.com <br>
 
 
 
